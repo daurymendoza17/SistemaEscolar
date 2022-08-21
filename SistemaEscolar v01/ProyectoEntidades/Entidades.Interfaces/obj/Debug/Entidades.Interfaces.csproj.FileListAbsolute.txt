@@ -1,0 +1,38 @@
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Interfaces.exe.config
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Interfaces.exe
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Interfaces.pdb
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.AssemblyReference.cache
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.Properties.Resources.resources
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.GenerateResource.cache
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.exe
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.pdb
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.Form1.resources
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmLogin.resources
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Data.dll
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Data.pdb
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmMDIPrincipal.resources
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.CopyComplete
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmEntidades.resources
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmNuevo.resources
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmAcerca.resources
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Interfaces.exe.config
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Interfaces.exe
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Interfaces.pdb
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Data.dll
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\bin\Debug\Entidades.Data.pdb
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.AssemblyReference.cache
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.Form1.resources
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmAcerca.resources
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmEntidades.resources
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmLogin.resources
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmMDIPrincipal.resources
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.FrmNuevo.resources
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.Properties.Resources.resources
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.GenerateResource.cache
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.csproj.CopyComplete
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.exe
+C:\Users\renas\Documents\SistemaEscolar v01\ProyectoEntidades\Entidades.Interfaces\obj\Debug\Entidades.Interfaces.pdb

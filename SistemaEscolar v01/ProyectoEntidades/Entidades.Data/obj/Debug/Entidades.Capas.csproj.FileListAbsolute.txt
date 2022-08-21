@@ -1,0 +1,6 @@
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Data\bin\Debug\Entidades.Data.dll
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Data\bin\Debug\Entidades.Data.pdb
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Data\obj\Debug\Entidades.Capas.csproj.AssemblyReference.cache
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Data\obj\Debug\Entidades.Capas.csproj.CoreCompileInputs.cache
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Data\obj\Debug\Entidades.Data.dll
+C:\Users\renas\Documents\Sell Point v01\ProyectoEntidades\Entidades.Data\obj\Debug\Entidades.Data.pdb
